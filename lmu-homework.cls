@@ -1,9 +1,3 @@
-% DEVELOPER: SANDRO-ALESSIO GIERENS
-% sandro-alessio@gierens.de
-% https://www.gierens.de
-% COPYRIGHT (c) 2017-2018
-% ONLY FOR EDUCATIONAL OR PRIVATE USE
-
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{LMUhomework}[2017/12/23 LMU homework template]
 
