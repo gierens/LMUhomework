@@ -22,4 +22,4 @@ This code is distributed under [GPLv3](LICENSE) license.
 
 Note that the [Ludwig Maximilians University](https://lmu.de) owns the 
 [logo](img/logo) and [seal](img/seal), you need to confirm with their
-copyright when using the images.
+copyright when using the images for more than just your homework.
