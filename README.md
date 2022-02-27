@@ -3,7 +3,7 @@
 This is a LaTeX template for professional looking homework submissions at
 LMU Munich.
 
-[Sample](img/sample-1.png)
+![Sample](img/sample-1.png)
 
 ## Usage
 1. Have a look at the [sample.tex](sample.tex) and alter it to your needs
