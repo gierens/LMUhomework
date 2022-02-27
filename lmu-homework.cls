@@ -1,5 +1,5 @@
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{LMUhomework}[2017/12/23 LMU homework template]
+\ProvidesClass{LMUhomework}[2022/02/26 LMU homework template]
 
 \LoadClass[a4paper, 10pt, onecolumn, unknownkeysallowed]{article}
 
